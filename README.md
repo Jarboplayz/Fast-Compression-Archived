@@ -1,12 +1,13 @@
 # Fast Compression Archived
 
+Hello! This is a new Project of Mine.  This took me 2 days. But, after a bunch of
+bugs, decryption failure and alot of file corruption. I did some research,
+Watched some tutorials, and I finally came up with a good one.
+
 ## Changelog:
 Aug 8 2026 v1.01: 
   - Posted first version to github
 
-Hello! This is a new Project of Mine.  This took me 2 days. But, after a bunch of
-bugs, decryption failure and alot of file corruption. I did some research,
-Watched some tutorials, and I finally came up with a good one.
 
 ## Info
 This is Folder Compressor program. (Like zip, rar, etc.)

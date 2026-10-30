@@ -1,9 +1,9 @@
 # Fast Compression Archived
 
-Hello! This is a new Project of Mine.  This took me 2 days. But, after a bunch of
-bugs, decryption failure and alot of file corruption. I did some research,
-Watched some tutorials, and I finally came up with probably a good one.
-
+Hello! This is a new Project of Mine. My goal is to make a simple Project that won't me get or cost money.
+I decided to make this test project to sharpen my C++ Profession, and I don't really need money for this.
+This project took me 2 days. But, after a bunch of bugs, decryption failure 
+and a lot of file corruption. I did some research, Watched some tutorials, and I finally came up with probably a good one.
 
 ## Changelog:
 Aug 8 2026 v1.01: 

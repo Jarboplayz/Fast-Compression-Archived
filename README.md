@@ -8,7 +8,10 @@ Watched some tutorials, and I finally came up with probably a good one.
 ## Changelog:
 Aug 8 2026 v1.01: 
   - Released the Beta Version!
-  - (STILL BUGGY PLEASE READ THE WARNING!!!)
+
+Oct 30 2026 v1.1:
+  - Bug Fixes (Random Crashes when Unpacking)
+  - Fully Released!!
 
 
 ## Info

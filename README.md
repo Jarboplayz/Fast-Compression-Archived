@@ -108,4 +108,5 @@ Now we confirmed no bombs or anything, you can click enter. It should kick you o
 
 ---
 
-If there are any bugs, please tell it to me [via e-mail](mailto:jarbodude@gmail.com)
+If there are any bugs, please tell it to me [via e-mail.](mailto:jarbodude@gmail.com) I would appreciate that so
+we can always keep this project fixed, and well done!

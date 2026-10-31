@@ -35,12 +35,11 @@ You're going to type '1' to the command line, and click enter.
   - Folder path
   - Target Output
   - Encryption Password
+
+![step 2](step2.png)
+    
 Please avoid Spaces to the path. If there are ever spaces, I suggest replacing the
 spaces with underscores (_)
 
-![step 2](step2.png)
-
 When adding the path, remove the quotes if you ever used the "Copy as Path" method.
 (e.g: "C:\Users\Main\Desktop\secret.fca")
-
-![step 2](

@@ -1,4 +1,4 @@
-# Fast Compression Archived
+w# Fast Compression Archived
 
 Hello! This is a new Project of Mine. My goal is to make a simple Project that won't me get or cost money.
 I decided to make this test project to sharpen my C++ Profession, and I don't really need money for this.
@@ -62,3 +62,43 @@ When adding the path, remove the quotes if you ever used the "Copy as Path" meth
    if the pack is there. If it's there, it worked. If not, you may did something wrong or the program has a bug.
 
 ![step 3](step3.png)
+
+## How to Unpack a folder (and also how to check what's inside it)
+
+1. When opening the FCA application you will see a simple menu like this:
+
+![step 1](1.png)
+
+Before we click 2, you may need to do '3' (or reading) before unpacking it.
+You're going to type '3' to the command line, and click enter.
+
+---
+
+2. Next you're going to Add the following information:
+  - .fca path (The one you want to read and unpack)
+  - Encryption Password (If there's one)
+
+![step 2](2.png)
+
+You're supposed to see the list of files inside the folder. If you get kicked out of the Command Prompt, 
+you may did something wrong or the program has a bug. It can also read the folder inside that encrypted folder.
+Now we confirmed no bombs or anything, you can click enter. It should kick you out of the Command Prompt.
+
+---
+
+3. You will need to reopen the FCA application once again. This time, type '2' and click enter.
+
+---
+
+4. Next you're going to Add the following information:
+   - .fca path (The one you want to read and unpack)
+   - Encryption Password (If there's one)
+   (After this it should load some stuff)
+   - Extract path
+
+  ![step 3](3.png)
+
+  ---
+
+5. After that, you should get kicked out of the Command Prompt. You're going to check the path
+   you placed in the Extract path. If it's there, it worked. If not, you may did something wrong or the program has a bug.

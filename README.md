@@ -72,6 +72,8 @@ When adding the path, remove the quotes if you ever used the "Copy as Path" meth
 Before we click 2, you may need to do '3' (or reading) before unpacking it.
 You're going to type '3' to the command line, and click enter.
 
+But if you wanna skip the reading part, go on to Step 3.
+
 ---
 
 2. Next you're going to Add the following information:
@@ -93,7 +95,6 @@ Now we confirmed no bombs or anything, you can click enter. It should kick you o
 4. Next you're going to Add the following information:
    - .fca path (The one you want to read and unpack)
    - Encryption Password (If there's one)
-   (After this it should load some stuff)
    - Extract path
 
   ![step 3](3.png)

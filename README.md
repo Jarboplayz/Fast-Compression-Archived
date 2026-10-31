@@ -29,6 +29,7 @@ Below is a full manual just incase if it gets too confusing.
 ## How to Pack a folder
 
 1. When opening the FCA application, you will see a simple menu like this:
+
 ![step 1](step1.png)
 
 You're going to type '1' to the command line, and click enter.

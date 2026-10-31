@@ -102,3 +102,5 @@ Now we confirmed no bombs or anything, you can click enter. It should kick you o
 
 5. After that, you should get kicked out of the Command Prompt. You're going to check the path
    you placed in the Extract path. If it's there, it worked. If not, you may did something wrong or the program has a bug.
+
+![step 4](4.png)

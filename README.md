@@ -24,6 +24,8 @@ Only Available in Windows. I will add universal support soon. Stay tuned for it!
 
 # Tutorial
 
+Below is a full manual just incase if it gets too confusing.
+
 ## How to Pack a folder
 
 1. When opening the FCA application, you will see a simple menu like this:

@@ -55,3 +55,5 @@ When adding the path, remove the quotes if you ever used the "Copy as Path" meth
 
 3. After that, you should get kicked out of the Command Prompt. Check the output directory you used
    if the pack is there. If it's there, it worked. If not, you may did something wrong or the program has a bug.
+
+![step 3](step3.png)

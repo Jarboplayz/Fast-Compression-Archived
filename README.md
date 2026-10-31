@@ -10,9 +10,14 @@ Also this is still in the incomplete state. Meaning there are still stuff to add
 ## Changelog:
 Aug 8 2026 v1.01: 
   - Released the Beta Version!
+  - Paused Development
 
 Oct 30 2026 v1.02:
+  - Project Resumed
   - Bug Fixes (Random Crashes when Unpacking)
+
+Oct 31 2026 v1.03:
+  - Added the new feature to read the packed folder
 
 
 ## Info

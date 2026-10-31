@@ -5,11 +5,13 @@ I decided to make this test project to sharpen my C++ Profession, and I don't re
 This project took me 2 days. But, after a bunch of bugs, decryption failure 
 and a lot of file corruption. I did some research, Watched some tutorials, and I finally came up with probably a good one.
 
+Also this is still in the incomplete state. Meaning there are still stuff to add
+
 ## Changelog:
 Aug 8 2026 v1.01: 
   - Released the Beta Version!
 
-Oct 30 2026 v1.1:
+Oct 30 2026 v1.02:
   - Bug Fixes (Random Crashes when Unpacking)
 
 
@@ -48,3 +50,8 @@ spaces with underscores (_)
 
 When adding the path, remove the quotes if you ever used the "Copy as Path" method.
 (e.g: "C:\Users\Main\Desktop\secret.fca")
+
+---
+
+3. After that, you should get kicked out of the Command Prompt. Check the output directory you used
+   if the pack is there. If it's there, it worked. If not, you may did something wrong or the program has a bug.

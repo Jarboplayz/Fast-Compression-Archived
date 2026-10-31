@@ -11,7 +11,6 @@ Aug 8 2026 v1.01:
 
 Oct 30 2026 v1.1:
   - Bug Fixes (Random Crashes when Unpacking)
-  - Fully Released!!
 
 
 ## Info

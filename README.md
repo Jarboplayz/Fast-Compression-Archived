@@ -34,6 +34,8 @@ Below is a full manual just incase if it gets too confusing.
 
 You're going to type '1' to the command line, and click enter.
 
+---
+
 2. Next you're going to Add the information:
   - Folder path
   - Target Output

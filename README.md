@@ -45,7 +45,7 @@ You're going to type '1' to the command line, and click enter.
 
 2. Next you're going to Add the following information:
   - Folder path
-  - Target Output
+  - Output path
   - Encryption Password (Optional)
 
 ![step 2](step2.png)
